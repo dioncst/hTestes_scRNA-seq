@@ -7,6 +7,11 @@ This repository contains scripts for data processing, analysis and figure genera
 These single-cell RNA sequencing data have been deposited on NODE project under the accession number [OEP000778](https://www.biosino.org/node/project/detail/OEP000778).
 
 ### 1. Obtaining the public scRNA-seq data
+The paper of these datasets can be found at:
+
+healthy: [Guo et al., Cell Rep. 2019](https://www.ncbi.nlm.nih.gov/pubmed/30315278)
+
+obstructive azoospermia : [Sohni et al., Cell Rep. 2019](https://www.ncbi.nlm.nih.gov/pubmed/30726734)
 
 ##### Testes of Healthy individual (GSE112013)
 ```
