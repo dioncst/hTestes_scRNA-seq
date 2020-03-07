@@ -41,4 +41,4 @@ wget ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3526nnn/GSM3526590/suppl/GSM35265
 wget ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3526nnn/GSM3526590/suppl/GSM3526590_A2_total_matrix.mtx.gz
 ```
 ### 2. Data processing
-To further process the data (normalization, dimensionality reduction and Integration), please follow either the [processing](../master/Preprocessing/processing.R)
+To further process the data (normalization, dimensionality reduction and Integration), please follow either the [processing](../master/code/processing.r)
